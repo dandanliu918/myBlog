@@ -1,0 +1,1 @@
+##初始化 文件       npm init -y     ##安装依赖的node模块       npm install express mongoose ejs body-parser debug multer connect-mongo connect-flash bootstrap jquery express-session --save     ##路由规划       注册 /user/signup     登录 /user/signin     退出 /user/signout          发表文章 /article/add     查看文章列表  /article/list     ##
